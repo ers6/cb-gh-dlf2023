@@ -1,5 +1,7 @@
 # CollectionBuilder-GH
 
+This is my demo for DLF. I'm using it to learn how to use collection builder in github pages! It's very exciting. 
+
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
